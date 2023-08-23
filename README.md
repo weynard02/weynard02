@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS + Frameworks (Vue etc), Competitive Programming, Python, Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/weynard02](https://github.com/weynard02)
+- 👨‍💻 Some of my projects are available at [https://github.com/weynard02](https://github.com/weynard02) 
 
 - 📫 How to reach me **samsicoweynard@gmail.com**
 
