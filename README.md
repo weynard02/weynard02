@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weynard02" alt="weynard02" /></a> </p>
 
-- 🔭 I’m currently on **ITS** and working on **Schematics NPC 2023**
+- 🔭 I’m currently on **ITS**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/weynard02](https://github.com/weynard02) 
 
